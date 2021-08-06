@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-   Projeto desenvolvido no curso do ProgBR
+   Projeto desenvolvido:
 </div>
 </br>
 <p align="center">
