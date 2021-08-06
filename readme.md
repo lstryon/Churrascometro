@@ -5,14 +5,14 @@
 <div align="center">
    Projeto desenvolvido no curso do ProgBR
 </div>
-
+</br>
 <p align="center">
-  <img alt="mockup" src="./assets/churrascometro.gif" width="100%">
+  <img alt="mockup" src="./assets/churrascometro.gif" width="80%">
 </p>
 
 <p align="center">
   <a href="#clipboard-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-tecnologias-utilizadas">Tecnologias</a>
 </p>
 
 ## :clipboard: Sobre o Projeto
